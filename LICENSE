@@ -1,0 +1,10 @@
+The code in this repository is released into the public domain. You are free to use, modify, and distribute this code for any purpose without restriction.
+
+**Disclaimer**: This code is provided "as is" without any warranty of any kind, either express or implied, including but not limited to the warranties of merchantability, fitness for a particular purpose, or noninfringement.
+
+Feel free to contribute, but please ensure that proper credit is given where due.
+
+Libraries used:
+- **RF24**: This project utilizes the [RF24 Arduino library](https://github.com/nRF24/RF24) for managing the nRF24L01 wireless modules. Please check the RF24 repository for its specific license terms.
+
+Note: The **Library** folder in this repository contains the RF24 library for users' convenience.
