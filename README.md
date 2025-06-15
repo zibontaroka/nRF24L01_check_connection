@@ -42,15 +42,15 @@ You can access the repository here:
 
 4. Open the Serial Monitor at 9600 baud rate to view the module details and confirm it's working.
 
-## License:
-This code is released under the **Public Domain**. Feel free to use, modify, and distribute it.
+## 🛡️ License
+Licensed under the MIT License. See the `LICENSE` file for details.
 
 The libraries used are under their respective licenses, and you should refer to the original repositories for more details.
 
-## Contact Information:
+## 👨‍💻 Developer
+**Md Shaifulla Zibon**  
+IoT Systems Designer | SMPS Engineer | Web Dashboard Integrator  
+🎓 B.Sc. in Electrical and Electronic Engineering, European University of Bangladesh  
 
-**Name**: Md Shaifulla Zibon  
-**Email**: mdshaifullazibon11@gmail.com  
-**Profession**: Electrical and Electronics Engineer, specializing in IoT, wireless communication, and embedded systems.
-
-For any inquiries, suggestions, or contributions, feel free to reach out!
+💬 For questions, feature requests, or contributions, open an issue or pull request.
+```
